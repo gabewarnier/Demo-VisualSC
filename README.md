@@ -1,2 +1,2 @@
 # Demo-VisualSC
-Understand command between VSC and GitHub
+Understand commands between VSC and GitHub.
